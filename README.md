@@ -11,6 +11,6 @@ alessandroferreiracwb/alessandroferreiracwb is a ✨ special ✨ repository beca
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+  <img height="180cm" scr="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
