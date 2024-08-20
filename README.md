@@ -19,7 +19,9 @@ You can click the Preview link to take a look at your changes.
 <div style="display: inline_block"><br>
     <img align="center" alt="Ale-HTML" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />    
     <img align="center" alt="Ale-CSS" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />                
-    <img align="center" alt="Ale-Js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="Ale-Js" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />  
+    <img align="center" alt="Ale-Arduino" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+          
 </div>
 
 
