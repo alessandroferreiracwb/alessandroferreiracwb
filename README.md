@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandroferreiracwb&show_icons=true&theme=dracula&include_all_comits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroferreiracwb&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-![snake gif](https://github.com/alessandroferreiracwb/alessandroferreiracwb/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/alessandroferreiracwb/alessandroferreiracwb/snake.svg)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Ale-HTML" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />    
