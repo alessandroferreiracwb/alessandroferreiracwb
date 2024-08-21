@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandroferreiracwb&show_icons=true&theme=dracula&include_all_comits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroferreiracwb&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-![snake gif](https://github.com/alessandroferreiracwb/alessandroferreiracwb/blob/main/.github/workflows/snake.yml)
+
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Ale-HTML" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />    
@@ -23,5 +23,5 @@ You can click the Preview link to take a look at your changes.
     <img align="center" alt="Ale-Arduino" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
           
 </div>
-
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
 
