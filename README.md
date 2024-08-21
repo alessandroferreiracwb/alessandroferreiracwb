@@ -23,5 +23,5 @@ You can click the Preview link to take a look at your changes.
     <img align="center" alt="Ale-Arduino" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
           
 </div>
-![Snake animation](https://github.com/alessandroferreiracwb/alessandroferreiracwb/blob/output/github-contribution-grid-snake.svg)
+
 
